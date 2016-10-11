@@ -12,6 +12,7 @@ Sei d'accordo nel modificare il non Statuto con il nuovo testo aggiornato propos
 
 - [versione vigente](/modifica-non-statuto/attuale.md)
 - [versione proposta](/modifica-non-statuto/proposta.md)
+- [differenze](https://github.com/olistik/m5s-consultazione-aggiornamento-statuto/commit/a1913b0eeb20b79fdd713c2239513696af2045dd)
 
 ## Consultazione 2: Modifica Regolamento
 
