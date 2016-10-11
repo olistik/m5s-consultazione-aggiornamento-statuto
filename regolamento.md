@@ -90,3 +90,5 @@
   Qualora uno dei nominativi proposti per la sostituzione venga votato da almeno un quinto degli iscritti, viene designato come componente del comitato d'appello, in sostituzione del componente precedentemente nominato meno votato.
 
   Qualora più nominativi proposti in sostituzione vengano votati da almeno un quinto degli iscritti, viene designato come componente del comitato d'appello il nominativo che abbia preso meno voti tra quelli votati da almeno un quinto degli iscritti.
+
+[fonte](http://www.movimento5stelle.it/regolamento/)

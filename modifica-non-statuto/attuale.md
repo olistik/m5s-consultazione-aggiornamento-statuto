@@ -7,7 +7,6 @@
 - Articolo 5 – Adesione al MoVimento
 - Articolo 6 – Finanziamento delle attività svolte sotto il nome del “MoVImento 5 Stelle”
 - Articolo 7 – Procedure di designazione dei candidati alle elezioni
-- Articolo 8 - Integrazioni
 
 ## REGOLAMENTO
 
@@ -31,7 +30,9 @@ Il “MoVimento 5 stelle” intende raccogliere l'esperienza maturata nell'ambit
 
 ### ARTICOLO 5 – ADESIONE AL MOVIMENTO
 
-L'adesione al MoVimento non prevede formalità maggiori rispetto alla registrazione ad un normale sito Internet. Il MoVimento è aperto ai cittadini italiani maggiorenni che non facciano parte, all'atto della richiesta di adesione, di partiti politici o di associazioni aventi oggetto o finalità in contrasto con quelli sopra descritti. La richiesta di adesione al MoVimento verrà inoltrata tramite Internet; attraverso di essa, l'aspirante iscritto provvederà a certificare di essere in possesso dei requisiti previsti al paragrafo precedente. Nella misura in cui ciò sia concesso, sulla scorta delle vigenti disposizioni di legge, sempre attraverso la Rete verrà portato a compimento l'iter di identificazione del richiedente, l'eventuale accettazione della sua richiesta e l'effettuazione delle relative comunicazioni. La partecipazione al MoVimento è individuale e personale e dura fino alla cancellazione dell'utente che potrà intervenire per volontà dello stesso o per mancanza o perdita dei requisiti di ammissione oltre che per le altre cause di cancellazione previste dal regolamento pubblicato al link http://www.beppegrillo.it/movimento/regolamento/
+L'adesione al MoVimento non prevede formalità maggiori rispetto alla registrazione ad un normale sito Internet. Il MoVimento è aperto ai cittadini italiani maggiorenni che non facciano parte, all'atto della richiesta di adesione, di partiti politici o di associazioni aventi oggetto o finalità in contrasto con quelli sopra descritti. La richiesta di adesione al MoVimento verrà inoltrata tramite Internet; attraverso di essa, l'aspirante iscritto provvederà a certificare di essere in possesso dei requisiti previsti al paragrafo precedente. Nella misura in cui ciò sia concesso, sulla scorta delle vigenti disposizioni di legge, sempre attraverso la Rete verrà portato a compimento l'iter di identificazione del richiedente, l'eventuale accettazione della sua richiesta e l'effettuazione delle relative comunicazioni.
+
+La partecipazione al MoVimento è individuale e personale e dura fino alla cancellazione dell'utente che potrà intervenire per volontà dello stesso o per mancanza o perdita dei requisiti di ammissione.
 
 ### ARTICOLO 6 – FINANZIAMENTO DELLE ATTIVITÀ SVOLTE SOTTO IL NOME DEL “MOVIMENTO 5 STELLE”
 
@@ -41,8 +42,4 @@ Non è previsto il versamento di alcuna quota di adesione al MoVimento. Nell'amb
 
 In occasione ed in preparazione di consultazioni elettorali su base europea, nazionale, regionale o comunale, il sito www.movimento5stelle.it costituirà il centro di raccolta delle candidature ed il veicolo di selezione e scelta dei soggetti che saranno, di volta in volta e per iscritto, autorizzati all'uso del nome e del marchio “MoVimento 5 Stelle” nell'ambito della propria partecipazione a ciascuna consultazione elettorale. Tali candidati saranno scelti tra i cittadini italiani, la cui età minima corrisponda a quella stabilita dalla legge per la candidatura a determinate cariche elettive, che siano incensurati e che non abbiano in corso alcun procedimento penale a proprio carico, qualunque sia la natura del reato ad essi contestato. L'identità dei candidati a ciascuna carica elettiva sarà resa pubblica attraverso il sito internet appositamente allestito nell'ambito del sito; altrettanto pubbliche, trasparenti e non mediate saranno le discussioni inerenti tali candidature. Le regole relative al procedimento di candidatura e designazione a consultazioni elettorali nazionali o locali potranno essere meglio determinate in funzione della tipologia di consultazione ed in ragione dell'esperienza che verrà maturata nel tempo.
 
-### ARTICOLO 8 - INTEGRAZIONI
-
-Il "non statuto” è integrato dalle disposizioni contenute nel regolamento pubblicato al link http://www.beppegrillo.it/movimento/regolamento/
-
-Versione del 26/9/2016
+Versione del 15/02/2016
