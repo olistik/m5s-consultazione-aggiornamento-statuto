@@ -14,3 +14,5 @@ Si propone la modifica del Non Statuto per integrarlo con il Regolamento del MoV
 Sei d'accordo nel modificare il non Statuto con il nuovo testo aggiornato proposto?
 - [versione vigente](/attuale.md)
 - [versione proposta](/proposta.md)
+
+Qui una visualizzazione delle modifiche: [link](https://github.com/olistik/m5s-consultazione-aggiornamento-statuto/commit/eff3c5690d5402b7cd22b992ce90a6e87a7fae4c)
