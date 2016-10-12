@@ -129,11 +129,11 @@ Decorso il termine per la presentazione delle deduzioni, il collegio dei probivi
 
 La decisione del collegio dei probiviri sulla carenza dei requisiti di iscrizione è inappellabile.
 
-Negli altri casi nei quali è applicabile una sanzione disciplinare, il gestore del sito, su  segnalazione comunque ricevuta che non risulti manifestamente infondata, ne dà  contestazione all’interessato con comunicazione a mezzo e-mail, assegnandogli un  termine di dieci giorni per la presentazione di eventuali controdeduzioni, dandone  comunicazione al collegio dei probiviri, al quale vengono successivamente trasmesse  anche le controdeduzioni eventualmente presentate.
+Negli altri casi nei quali è applicabile una sanzione disciplinare, il gestore del sito, su segnalazione comunque ricevuta che non risulti manifestamente infondata, ne dà contestazione all’interessato con comunicazione a mezzo e-mail, assegnandogli un termine di dieci giorni per la presentazione di eventuali controdeduzioni, dandone comunicazione al collegio dei probiviri, al quale vengono successivamente trasmesse anche le controdeduzioni eventualmente presentate.
 
-Nei casi più gravi, il collegio dei probiviri ha facoltà di disporre la sospensione cautelare dell’iscritto, dandogliene  comunicazione a mezzo e-mail.
+Nei casi più gravi, il collegio dei probiviri ha facoltà di disporre la sospensione cautelare dell’iscritto, dandogliene comunicazione a mezzo e-mail.
 
-Decorso il termine per la presentazione delle deduzioni, il collegio dei probiviri decide in merito alla sanzione disciplinare, dandone  comunicazione all’interessato, al gestore del sito ed al capo politico del MoVimento 5 Stelle.
+Decorso il termine per la presentazione delle deduzioni, il collegio dei probiviri decide in merito alla sanzione disciplinare, dandone comunicazione all’interessato, al gestore del sito ed al capo politico del MoVimento 5 Stelle.
 
 Il collegio dei probiviri ha facoltà di acquisire informazioni e chiarimenti, nel rispetto del contraddittorio.
 
