@@ -95,16 +95,31 @@ Gli iscritti al MoVimento 5 Stelle sono passibili di sanzioni disciplinari:
 
 - a) per il venire meno dei requisiti di iscrizione stabiliti dal “non statuto”;
 - b) per violazione dei doveri previsti dall'articolo 1 del presente regolamento;
-- c) se candidati ad una carica elettiva, anche per: i) violazione delle regole e procedure per la presentazione e selezione delle candidature previste nel link www.movimento5stelle.it/regolamento/4.html; ii) promozione, organizzazione o partecipazione a cordate o gruppi riservati di iscritti; iii) compimento di atti diretti ad alterare il regolare svolgimento delle procedure per la selezione dei candidati;
-- d) se eletti ad una carica elettiva, anche per: i) violazione degli obblighi assunti all'atto di accettazione della candidatura; ii) mancata cooperazione e coordinamento con gli altri iscritti, esponenti e portavoce, anche in diverse assemblee elettive, per la realizzazione delle iniziative e dei programmi del MoVimento 5 Stelle, nonché per il perseguimento dell’azione politica del MoVimento 5 Stelle.
+- c) se candidati ad una carica elettiva, anche per:
+  - i) violazione delle regole e procedure per la presentazione e selezione delle candidature previste nel link www.movimento5stelle.it/regolamento/4.html;
+  - ii) promozione, organizzazione o partecipazione a cordate o gruppi riservati di iscritti;
+  - iii) compimento di atti diretti ad alterare il regolare svolgimento delle procedure per la selezione dei candidati;
+- d) se eletti ad una carica elettiva, anche per:
+  - i) violazione degli obblighi assunti all'atto di accettazione della candidatura;
+  - ii) mancata cooperazione e coordinamento con gli altri iscritti, esponenti e portavoce, anche in diverse assemblee elettive, per la realizzazione delle iniziative e dei programmi del MoVimento 5 Stelle, nonché per il perseguimento dell’azione politica del MoVimento 5 Stelle.
 
-Le sanzioni disciplinari applicabili sono: i) il richiamo; ii) la sospensione; iii) l’espulsione.
+Le sanzioni disciplinari applicabili sono:
+
+- i) il richiamo;
+- ii) la sospensione;
+- iii) l’espulsione.
 
 Il richiamo può essere irrogato in luogo di una sanzione disciplinare più grave, laddove ricorrano particolari circostanze attenuanti.
 
 La sospensione può essere irrogata, per un periodo da uno a dodici mesi, per mancanze che abbiano provocato o rischiato di provocare una lesione all’immagine od una perdita di consensi per il MoVimento 5 Stelle, od ostacolato la sua azione politica.
 
-L’espulsione può essere irrogata: i) per perdita dei requisiti di iscrizione al MoVimento 5 Stelle; ii) per gravi violazioni dei doveri previsti dal presente regolamento; iii) se candidati ad una carica elettiva, per violazione delle regole per la presentazione e selezione delle candidature; iv) se eletti ad una carica elettiva, per gravi violazioni degli impegni assunti all’atto di accettazione della candidatura; v) se sottoposti a procedimento disciplinare, per rilascio di dichiarazioni pubbliche relative al procedimento medesimo.
+L’espulsione può essere irrogata:
+
+- i) per perdita dei requisiti di iscrizione al MoVimento 5 Stelle;
+- ii) per gravi violazioni dei doveri previsti dal presente regolamento;
+- iii) se candidati ad una carica elettiva, per violazione delle regole per la presentazione e selezione delle candidature;
+- iv) se eletti ad una carica elettiva, per gravi violazioni degli impegni assunti all’atto di accettazione della candidatura;
+- v) se sottoposti a procedimento disciplinare, per rilascio di dichiarazioni pubbliche relative al procedimento medesimo.
 
 In caso di venir meno dei requisiti di iscrizione, il gestore del sito, su segnalazione comunque ricevuta, ne dà contestazione all’interessato con comunicazione a mezzo email, assegnandogli un termine di dieci giorni per la presentazione di eventuali controdeduzioni, dandone comunicazione al collegio dei probiviri, al quale vengono successivamente trasmesse anche le controdeduzioni eventualmente presentate.
 
