@@ -56,3 +56,15 @@ La prima proposta di modifica del Regolamento, nella quale viene mantenuta la po
 [Regolamento proposto, senza espulsioni](/regolamento/regolamento-senza-espulsioni.md)
 
 La seconda proposta di modifica, nella quale non è più prevista la possibilità di espulsione, prevede come sanzioni disciplinari il richiamo, la sospensione sino a 24 mesi e, nei casi di perdita dei requisiti di iscrizione, la sospensione a tempo indeterminato.
+
+## Confronto delle proposte con DiffChecker
+
+1. [vecchio / nuovo "non Statuto"](https://www.diffchecker.com/BuvrYNR8)
+2. [vecchio / nuovo regolamento con espulsioni](https://www.diffchecker.com/IcxVD8dr)
+3. [nuovo regolamento con espulsioni / nuovo regolamento senza espulsioni](https://www.diffchecker.com/rY33vwgZ)
+
+## Video
+
+[#M5S, come votare il nuovo "Non Statuto" e il "Regolamento"](https://www.youtube.com/watch?v=8NY3arFSGrM) di [William Anselmo](https://www.youtube.com/channel/UCB-Fe1O77Snjp3FRmFKVxKw)
+
+[![#M5S, come votare il nuovo "Non Statuto" e il "Regolamento"](https://i.ytimg.com/vi/8NY3arFSGrM/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Pw1kb3UqLRQ3eRJilsW6sAQEPrw)](https://www.youtube.com/watch?v=8NY3arFSGrM)
