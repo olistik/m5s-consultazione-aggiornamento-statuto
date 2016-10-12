@@ -7,6 +7,7 @@
 - Articolo 5 – Adesione al MoVimento
 - Articolo 6 – Finanziamento delle attività svolte sotto il nome del “MoVImento 5 Stelle”
 - Articolo 7 – Procedure di designazione dei candidati alle elezioni
+- Articolo 8 - Integrazioni
 
 ## REGOLAMENTO
 
@@ -48,7 +49,7 @@ La richiesta di adesione al MoVimento verrà inoltrata tramite Internet; attrave
 
 Nella misura in cui ciò sia concesso, sulla scorta delle vigenti disposizioni di legge, sempre attraverso la Rete verrà portato a compimento l'iter di identificazione del richiedente, l'eventuale accettazione della sua richiesta e l'effettuazione delle relative comunicazioni.
 
-La partecipazione al MoVimento è individuale e personale e dura fino alla cancellazione dell'utente che potrà intervenire per volontà dello stesso o per mancanza o perdita dei requisiti di ammissione.
+La partecipazione al MoVimento è individuale e personale e dura fino alla cancellazione dell'utente che potrà intervenire per volontà dello stesso o per mancanza o perdita dei requisiti di ammissione oltre che per le altre cause di cancellazione previste dal regolamento pubblicato al [link](/regolamento/vigente.md)
 
 ### ARTICOLO 6 – FINANZIAMENTO DELLE ATTIVITÀ SVOLTE SOTTO IL NOME DEL “MOVIMENTO 5 STELLE”
 
@@ -66,4 +67,8 @@ L'identità dei candidati a ciascuna carica elettiva sarà resa pubblica attrave
 
 Le regole relative al procedimento di candidatura e designazione a consultazioni elettorali nazionali o locali potranno essere meglio determinate in funzione della tipologia di consultazione ed in ragione dell'esperienza che verrà maturata nel tempo.
 
-Versione del 15/02/2016
+### ARTICOLO 8 - INTEGRAZIONI
+
+Il "non statuto” è integrato dalle disposizioni contenute nel regolamento pubblicato al [link](/regolamento/vigente.md)
+
+Versione del 26/9/2016
