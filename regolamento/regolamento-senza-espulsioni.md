@@ -106,26 +106,26 @@ Gli iscritti al MoVimento 5 Stelle sono passibili di sanzioni disciplinari:
 Le sanzioni disciplinari applicabili sono:
 
 - i) il richiamo;
-- ii) la sospensione.
+- ii) la sospensione;
+- iii) l’espulsione.
 
 Il richiamo può essere irrogato in luogo di una sanzione disciplinare più grave, laddove ricorrano particolari circostanze attenuanti.
 
 La sospensione può essere irrogata, per un periodo da uno a dodici mesi, per mancanze che abbiano provocato o rischiato di provocare una lesione all’immagine od una perdita di consensi per il MoVimento 5 Stelle, od ostacolato la sua azione politica.
 
-La sospensione può essere irrogata, per un periodo da uno a ventiquattro mesi:
+L’espulsione può essere irrogata:
 
-- i) per gravi violazioni dei doveri previsti dal presente regolamento;
-- ii) se candidati ad una carica elettiva, per violazione delle regole per la presentazione e selezione delle candidature;
-- iii) se eletti ad una carica elettiva, per gravi violazioni degli impegni assunti all’atto di accettazione della candidatura;
-- iv) se sottoposti a procedimento disciplinare, per rilascio di dichiarazioni pubbliche relative al procedimento medesimo.
+- i) per perdita dei requisiti di iscrizione al MoVimento 5 Stelle;
+- ii) per gravi violazioni dei doveri previsti dal presente regolamento;
+- iii) se candidati ad una carica elettiva, per violazione delle regole per la presentazione e selezione delle candidature;
+- iv) se eletti ad una carica elettiva, per gravi violazioni degli impegni assunti all’atto di accettazione della candidatura;
+- v) se sottoposti a procedimento disciplinare, per rilascio di dichiarazioni pubbliche relative al procedimento medesimo.
 
-In caso di perdita dei requisiti di iscrizione al MoVimento 5 Stelle, la sospensione è irrogata a tempo indeterminato.
-
-In caso di venir meno dei requisiti di iscrizione, il gestore del sito, su segnalazione comunque ricevuta, ne dà contestazione all’interessato con comunicazione a mezzo e-mail, assegnandogli un termine di dieci giorni per la presentazione di eventuali controdeduzioni, dandone comunicazione al collegio dei probiviri, al quale vengono successivamente trasmesse anche le controdeduzioni eventualmente presentate.
+In caso di venir meno dei requisiti di iscrizione, il gestore del sito, su segnalazione comunque ricevuta, ne dà contestazione all’interessato con comunicazione a mezzo email, assegnandogli un termine di dieci giorni per la presentazione di eventuali controdeduzioni, dandone comunicazione al collegio dei probiviri, al quale vengono successivamente trasmesse anche le controdeduzioni eventualmente presentate.
 
 Il collegio dei probiviri ha facoltà di disporre la sospensione cautelare dell’iscritto, dandone comunicazione all’interessato a mezzo e-mail.
 
-Decorso il termine per la presentazione delle deduzioni, il collegio dei probiviri, se verifica la insussistenza dei requisiti d’iscrizione, dispone la sospensione a tempo indeterminato, dandone comunicazione all’interessato ed al gestore del sito.
+Decorso il termine per la presentazione delle deduzioni, il collegio dei probiviri, verificata la sussistenza dei requisiti d’iscrizione, decide in merito all’espulsione, dandone comunicazione all’interessato ed al gestore del sito.
 
 La decisione del collegio dei probiviri sulla carenza dei requisiti di iscrizione è inappellabile.
 
@@ -149,11 +149,11 @@ In ogni caso, il capo politico del MoVimento 5 Stelle, laddove sia in disaccordo
 
 La decisione dell’assemblea degli iscritti è definitiva ed inappellabile, anche se intervenuta su decisione del collegio dei probiviri.
 
-In ogni caso di sospensione, il gestore del sito provvede alla disabilitazione dell’utenza di accesso.
+In ogni caso di sospensione o di espulsione, il gestore del sito provvede alla disabilitazione dell’utenza di accesso.
 
 Il procedimento disciplinare non può essere avviato decorso un anno dalla commissione del fatto o dalla sua scoperta, e deve concludersi entro 180 giorni dall’invio della contestazione all’interessato.
 
-Per gli iscritti che siano membri dei gruppi parlamentari, l’espulsione dai rispettivi gruppi, disposta in conformità alle procedure dei rispettivi regolamenti, comporta la sospensione a tempo indeterminato dal MoVimento 5 Stelle.
+Per gli iscritti che siano membri dei gruppi parlamentari, l’espulsione dai rispettivi gruppi, disposta in conformità alle procedure dei rispettivi regolamenti, comporta l’espulsione dal MoVimento 5 Stelle.
 
 La suddetta procedura è applicabile anche ai procedimenti in corso, eccettuati i casi in cui sia stata già disposta l’espulsione.
 
@@ -165,7 +165,7 @@ I componenti del collegio dei probiviri sono nominati tra i componenti dei grupp
 
 Il collegio dei probiviri dura in carica tre anni.
 
-L'incarico di proboviro è incompatibile con incarichi governativi e non è rinnovabile.
+L'incarico di proboviro è incompatibile con l'assunzione di incarichi governativi e non è rinnovabile.
 
 In caso venga a mancare anticipatamente un componente, si provvede alla sua sostituzione secondo la stessa modalità per la prima designazione.
 
@@ -199,4 +199,4 @@ Qualora più nominativi proposti in sostituzione vengano votati da almeno un qui
 
 Versione del 26/09/2016
 
-[fonte](http://www.beppegrillo.it/immagini/REGOLAMENTO_SENZA_ESPULSIONI26sett.pdf)
+[fonte](http://www.beppegrillo.it/immagini/REGOLAMENTO_CON%20ESPULSIONI_26sett.pdf)
