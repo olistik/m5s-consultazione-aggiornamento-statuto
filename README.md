@@ -1,4 +1,10 @@
-# M5S: consultazioni
+# M5S: Consultazioni
+
+Iniziativa che ha tratto ispirazione dal fantastico lavoro di [Paolo Montrasio](https://github.com/pmontrasio) sul [referendum costituzionale](https://github.com/pmontrasio/costituzione)).
+
+Lo scopo è aiutare i votanti iscritti alla [piattafoma Rousseau](https://rousseau.movimento5stelle.it).
+
+Di particolare rilevanza sono le differenze tra le varie proposte (vedi link **Differenze** in basso).
 
 Votazioni attive
 
