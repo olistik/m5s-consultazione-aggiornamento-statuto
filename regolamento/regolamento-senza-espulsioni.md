@@ -25,7 +25,7 @@ Gli iscritti al MoVimento 5 Stelle hanno l'onere:
 - e) di astenersi da comportamenti suscettibili di pregiudicare l’immagine o l’azione politica del MoVimento 5 Stelle o di avvantaggiare altri partiti;
 - f) di attenersi a lealtà e correttezza nei confronti degli altri iscritti e portavoce.
 
-1 bis. Oltre l’assemblea degli iscritti e il capo politico, sono organi del Movimento 5 stelle, senza alcuna funzione direttiva o rappresentativa:
+1 bis. Oltre l’assemblea degli iscritti e il capo politico, sono organi del MoVimento 5 stelle, senza alcuna funzione direttiva o rappresentativa:
 
 - Il collegio dei probiviri
 - Il comitato di appello
