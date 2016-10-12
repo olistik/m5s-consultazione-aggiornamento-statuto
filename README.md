@@ -14,7 +14,7 @@ Sei d'accordo nel modificare il non Statuto con il nuovo testo aggiornato propos
 - [versione vigente](/modifica-non-statuto/attuale.md)
 - [versione proposta](/modifica-non-statuto/proposta.md)
 
-**[Differenze](https://github.com/olistik/m5s-consultazioni/commit/a1913b0eeb20b79fdd713c2239513696af2045dd)**
+**[Differenze](https://github.com/olistik/m5s-consultazioni/commit/e32bc3cd01e1d0ff2e9e8c9f3e70f039ee251c08)**
 
 ## Consultazione 2: Modifica Regolamento
 
@@ -29,7 +29,7 @@ Sei d'accordo nel modificare il Regolamento con una delle due versioni aggiornat
 - [Regolamento proposto, con espulsioni](/regolamento/regolamento-con-espulsioni.md)
 - [Regolamento proposto, senza espulsioni](/regolamento/regolamento-senza-espulsioni.md)
 
-**[differenze](TBD)**
+**[Differenze](https://github.com/olistik/m5s-consultazioni/commit/bcca396dad851edd7a2ab17ced344a90b3a1c0b0)**
 
 ## Consultazione 3: Modifiche Regolamento
 
@@ -37,7 +37,7 @@ Devi scegliere tra un regolamento con espulsioni o senza.
 
 Nel caso che si proceda alla modifica del Regolamento, quale delle due opzioni preferiresti?
 
-**[differenze](TBD)**
+**[Differenze](https://github.com/olistik/m5s-consultazioni/commit/bcca396dad851edd7a2ab17ced344a90b3a1c0b0)**
 
 ### Regolamento con espulsioni
 
